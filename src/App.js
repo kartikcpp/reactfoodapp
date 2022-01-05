@@ -13,10 +13,10 @@ function App() {
         <Navbar />
         
         <Routes>
-          <Route exact path='/' element={<Home/>}></Route>
-          <Route path='/menu' element={<Menu/>}></Route>
-          <Route path='/about' element={<About/>}></Route>
-          <Route path='/contact' element={<Contact/>}></Route>
+          <Route exact path='/reactfoodapp/' element={<Home/>}></Route>
+          <Route path='/reactfoodapp/menu/' element={<Menu/>}></Route>
+          <Route path='/reactfoodapp/about/' element={<About/>}></Route>
+          <Route path='/reactfoodapp/contact/' element={<Contact/>}></Route>
         </Routes>
      <Footer/>
       </BrowserRouter>

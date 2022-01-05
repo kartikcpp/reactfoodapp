@@ -9,7 +9,7 @@ function Home() {
         <h1>Food corner</h1>
         <p>Indian food at a click</p>
         
-       <Link to='/'><button>Order Now</button></Link>
+       <Link to='/reactfoodapp/menu'><button>Order Now</button></Link>
       </div>
     </div>
   );

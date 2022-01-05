@@ -15,17 +15,17 @@ function Navbar() {
         <img src={logo} alt="logo"/>
 
         <div className="hiddenLinks">
-          <Link to="/">Home</Link>
-          <Link to="/about">about</Link>
-          <Link to="/contact">contact</Link>
-          <Link to="/menu">menu</Link>
+          <Link to="/reactfoodapp/">Home</Link>
+          <Link to="/reactfoodapp/about">about</Link>
+          <Link to="/reactfoodapp/contact">contact</Link>
+          <Link to="/reactfoodapp/menu">menu</Link>
         </div>
       </div>
       <div className="rightSide">
-        <Link to="/">Home</Link>
-        <Link to="/about">about</Link>
-        <Link to="/contact">contact</Link>
-        <Link to="/menu">menu</Link>
+        <Link to="/reactfoodapp/">Home</Link>
+        <Link to="/reactfoodapp/about">about</Link>
+        <Link to="/reactfoodapp/contact">contact</Link>
+        <Link to="/reactfoodapp/menu">menu</Link>
         <button onClick={click}> <ReorderIcon/></button>
        
       </div>
