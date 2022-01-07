@@ -1,4 +1,4 @@
-# see it on https://kartikcpp.github.io/
+# see it on https://kartikcpp.github.io/reactfoodapp/
 
 
 # Getting Started with Create React App
